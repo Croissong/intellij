@@ -25,11 +25,6 @@
       <path value="VCS Local Changes Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ChangesView.ToggleCommitUi" is_action="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="VCS Local Changes Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="CheckinProject" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="VCS Local Changes Toolbar" />
