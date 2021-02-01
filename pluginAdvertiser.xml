@@ -1489,7 +1489,7 @@
                   </entry>
                   <entry key="ioKotest">
                     <value>
-                      <FeaturePluginData displayName="Kotest" pluginName="kotest" pluginId="kotest-plugin-intellij" />
+                      <FeaturePluginData displayName="Kotest" pluginName="Kotest" pluginId="kotest-plugin-intellij" />
                     </value>
                   </entry>
                   <entry key="uTestRunConfiguration">
